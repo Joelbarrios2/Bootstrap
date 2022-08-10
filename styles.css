@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Open+Sans&family=Poppins:wght@300;400;700&family=Titillium+Web:wght@300&display=swap');
+
+
+.navbar{
+    background-color: dodgerblue;
+    text-shadow: 1px 1px 5px black;
+    font-family: 'Titillium Web', sans-serif;
+}
+.navbar span{
+    color: white;
+}
+.jumbotron{
+    margin-bottom: 0;
+}
+.btn-dark{
+    background-color: dodgerblue;
+    text-shadow: 1px 1px 5px black;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    height: 60px;
+    padding: 10px;
+    font-family: 'Titillium Web', sans-serif;
+    text-shadow: 1px 1px 5px black;
+    margin: 0;
+}
+.nleft{
+    background-image: url(img/pic5.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+.nright p{
+    font-family: 'Titillium Web', sans-serif;
+}
+h3{
+    color: black;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+}
+.article1{
+    background-image: url(/img/productos/crema1.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+.article2{
+    background-image: url(/img/productos/crema2.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+.article3{
+    background-image: url(/img/productos/crema3.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+.article4{
+    background-image: url(/img/productos/crema4.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
+footer{
+    position:absolute;
+    bottom: 0;
+    background-color: dodgerblue;
+    text-align: center;
+    width: 100%;
+}
+footer .redes i{
+    font-size: 30px;
+    color: white;
+    letter-spacing: 20px;
+}
